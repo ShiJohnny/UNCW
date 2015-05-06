@@ -1,0 +1,102 @@
+2015-05-01 14:08:08.756 UNCW[57271:2752216] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-01 14:08:08.757 UNCW[57271:2752216] Multi-tasking -> Device: YES, App: YES
+2015-05-01 14:08:08.758 UNCW[57271:2752216] Unlimited access to network resources
+2015-05-01 14:08:08.951 UNCW[57271:2752216] [CDVTimer][socialsharing] 55.811048ms
+2015-05-01 14:08:08.951 UNCW[57271:2752216] [CDVTimer][TotalPluginStartup] 55.937052ms
+2015-05-01 14:08:08.976 UNCW[57271:2752216] Resetting plugins due to page load.
+2015-05-01 14:08:09.258 UNCW[57271:2752216] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/F8FE77B1-CC88-4647-91BB-6F9D6C638CE5/UNCW.app/www/index.html
+2015-05-06 00:25:55.410 UNCW[2204:27299] Initializing application: (null) (null)
+2015-05-06 00:25:55.629 UNCW[2204:27299] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Data/Application/0BAE2795-2FC6-4760-939A-C3EDB5309767/Library/Cookies/Cookies.binarycookies
+2015-05-06 00:25:55.689 UNCW[2204:27299] *** Terminating app due to uncaught exception 'NSUnknownKeyException', reason: '[<UIApplication 0x7fd5ca6152f0> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key view.'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x000000010ba95f35 __exceptionPreprocess + 165
+	1   libobjc.A.dylib                     0x000000010e979bb7 objc_exception_throw + 45
+	2   CoreFoundation                      0x000000010ba95b79 -[NSException raise] + 9
+	3   Foundation                          0x000000010e5167b3 -[NSObject(NSKeyValueCoding) setValue:forKey:] + 259
+	4   CoreFoundation                      0x000000010b9dfe80 -[NSArray makeObjectsPerformSelector:] + 224
+	5   UIKit                               0x000000010c147c7d -[UINib instantiateWithOwner:options:] + 1506
+	6   UIKit                               0x000000010c149722 -[NSBundle(UINSBundleAdditions) loadNibNamed:owner:options:] + 160
+	7   UIKit                               0x000000010be81b11 -[UIApplication _loadMainNibFileNamed:bundle:] + 46
+	8   UIKit                               0x000000010be80c19 -[UIApplication _runWithMainScene:transitionContext:completion:] + 1075
+	9   UIKit                               0x000000010be7fbf2 -[UIApplication workspaceDidEndTransaction:] + 179
+	10  FrontBoardServices                  0x000000010f9f42a3 __31-[FBSSerialQueue performAsync:]_block_invoke + 16
+	11  CoreFoundation                      0x000000010b9cb53c __CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__ + 12
+	12  CoreFoundation                      0x000000010b9c1285 __CFRunLoopDoBlocks + 341
+	13  CoreFoundation                      0x000000010b9c1045 __CFRunLoopRun + 2389
+	14  CoreFoundation                      0x000000010b9c0486 CFRunLoopRunSpecific + 470
+	15  UIKit                               0x000000010be7f669 -[UIApplication _run] + 413
+	16  UIKit                               0x000000010be82420 UIApplicationMain + 1282
+	17  UNCW                                0x000000010b6aed67 main + 71
+	18  libdyld.dylib                       0x000000010f514145 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-05-06 00:26:28.819 UNCW[2589:28782] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:26:28.819 UNCW[2589:28782] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:26:28.820 UNCW[2589:28782] Unlimited access to network resources
+2015-05-06 00:26:29.000 UNCW[2589:28782] [CDVTimer][socialsharing] 66.776991ms
+2015-05-06 00:26:29.000 UNCW[2589:28782] [CDVTimer][TotalPluginStartup] 66.893995ms
+2015-05-06 00:26:29.024 UNCW[2589:28782] Resetting plugins due to page load.
+2015-05-06 00:26:29.321 UNCW[2589:28782] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/3F7BA1C0-AFE9-475D-BF5B-3339667AB09A/UNCW.app/www/index.html
+2015-05-06 00:26:40.096 UNCW[2973:29815] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:26:40.097 UNCW[2973:29815] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:26:40.098 UNCW[2973:29815] Unlimited access to network resources
+2015-05-06 00:26:40.275 UNCW[2973:29815] [CDVTimer][socialsharing] 55.312991ms
+2015-05-06 00:26:40.275 UNCW[2973:29815] [CDVTimer][TotalPluginStartup] 55.420995ms
+2015-05-06 00:26:40.305 UNCW[2973:29815] Resetting plugins due to page load.
+2015-05-06 00:26:40.576 UNCW[2973:29815] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/3B15FD26-0DC0-4480-9473-D52DFDDB4AA5/UNCW.app/www/index.html
+2015-05-06 00:26:59.554 UNCW[2973:30016] Terminating since there is no system app.
+2015-05-06 00:45:56.629 UNCW[3454:35531] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:45:56.630 UNCW[3454:35531] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:45:56.631 UNCW[3454:35531] Unlimited access to network resources
+2015-05-06 00:45:56.800 UNCW[3454:35531] [CDVTimer][socialsharing] 55.022001ms
+2015-05-06 00:45:56.800 UNCW[3454:35531] [CDVTimer][TotalPluginStartup] 55.141985ms
+2015-05-06 00:45:56.832 UNCW[3454:35531] Resetting plugins due to page load.
+2015-05-06 00:45:57.122 UNCW[3454:35531] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/721F2B41-A22D-44D1-B15A-03CFC825081D/UNCW.app/www/index.html
+2015-05-06 00:47:54.308 UNCW[3840:36958] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:47:54.310 UNCW[3840:36958] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:47:54.311 UNCW[3840:36958] Unlimited access to network resources
+2015-05-06 00:47:54.484 UNCW[3840:36958] [CDVTimer][socialsharing] 54.589033ms
+2015-05-06 00:47:54.484 UNCW[3840:36958] [CDVTimer][TotalPluginStartup] 54.699004ms
+2015-05-06 00:47:54.510 UNCW[3840:36958] Resetting plugins due to page load.
+2015-05-06 00:47:54.763 UNCW[3840:36958] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/BB9536DF-0DF4-4BAC-93AB-D0327F34D4BF/UNCW.app/www/index.html
+2015-05-06 00:50:05.962 UNCW[4189:38135] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:50:05.963 UNCW[4189:38135] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:50:05.964 UNCW[4189:38135] Unlimited access to network resources
+2015-05-06 00:50:06.134 UNCW[4189:38135] [CDVTimer][socialsharing] 55.804014ms
+2015-05-06 00:50:06.134 UNCW[4189:38135] [CDVTimer][TotalPluginStartup] 55.920005ms
+2015-05-06 00:50:06.161 UNCW[4189:38135] Resetting plugins due to page load.
+2015-05-06 00:50:06.443 UNCW[4189:38135] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/BCE48036-80FC-4E94-AB83-5AC7ECDF8E1A/UNCW.app/www/index.html
+2015-05-06 00:55:09.281 UNCW[4580:40162] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:55:09.282 UNCW[4580:40162] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:55:09.283 UNCW[4580:40162] Unlimited access to network resources
+2015-05-06 00:55:09.457 UNCW[4580:40162] [CDVTimer][socialsharing] 59.197009ms
+2015-05-06 00:55:09.457 UNCW[4580:40162] [CDVTimer][TotalPluginStartup] 59.314013ms
+2015-05-06 00:55:09.485 UNCW[4580:40162] Resetting plugins due to page load.
+2015-05-06 00:55:09.855 UNCW[4580:40162] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/97D5210D-05D2-471B-8DC7-9E9971F85C02/UNCW.app/www/index.html
+2015-05-06 00:56:49.378 UNCW[4917:41172] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:56:49.378 UNCW[4917:41172] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:56:49.379 UNCW[4917:41172] Unlimited access to network resources
+2015-05-06 00:56:49.548 UNCW[4917:41172] [CDVTimer][socialsharing] 56.286991ms
+2015-05-06 00:56:49.548 UNCW[4917:41172] [CDVTimer][TotalPluginStartup] 56.401014ms
+2015-05-06 00:56:49.575 UNCW[4917:41172] Resetting plugins due to page load.
+2015-05-06 00:56:49.807 UNCW[4917:41172] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/8FE84F5C-B630-44B8-B470-8CF76AA80482/UNCW.app/www/index.html
+2015-05-06 00:57:05.899 UNCW[4917:41172] THREAD WARNING: ['InAppBrowser'] took '128.151123' ms. Plugin should use a background thread.
+2015-05-06 00:57:34.541 UNCW[5303:42490] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 00:57:34.541 UNCW[5303:42490] Multi-tasking -> Device: YES, App: YES
+2015-05-06 00:57:34.542 UNCW[5303:42490] Unlimited access to network resources
+2015-05-06 00:57:34.714 UNCW[5303:42490] [CDVTimer][socialsharing] 53.615987ms
+2015-05-06 00:57:34.714 UNCW[5303:42490] [CDVTimer][TotalPluginStartup] 53.728998ms
+2015-05-06 00:57:34.741 UNCW[5303:42490] Resetting plugins due to page load.
+2015-05-06 00:57:35.011 UNCW[5303:42490] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/644ED51E-32E1-4F28-8B52-D47242EDBF03/UNCW.app/www/index.html
+2015-05-06 00:57:45.230 UNCW[5303:42490] THREAD WARNING: ['InAppBrowser'] took '103.637939' ms. Plugin should use a background thread.
+2015-05-06 13:22:30.495 UNCW[5772:47443] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 13:22:30.498 UNCW[5772:47443] Multi-tasking -> Device: YES, App: YES
+2015-05-06 13:22:30.511 UNCW[5772:47443] Unlimited access to network resources
+2015-05-06 13:22:30.973 UNCW[5772:47443] [CDVTimer][socialsharing] 69.218993ms
+2015-05-06 13:22:30.974 UNCW[5772:47443] [CDVTimer][TotalPluginStartup] 69.651008ms
+2015-05-06 13:22:31.069 UNCW[5772:47443] Resetting plugins due to page load.
+2015-05-06 13:22:31.397 UNCW[5772:47443] Finished load of: file:///Users/slr1076/Library/Developer/CoreSimulator/Devices/CB8C1184-D756-4C32-9203-C1D0B491C301/data/Containers/Bundle/Application/60F4E8A5-2497-4425-86FC-671F882B2825/UNCW.app/www/index.html
+2015-05-06 13:22:40.877 UNCW[5772:47443] THREAD WARNING: ['InAppBrowser'] took '120.593994' ms. Plugin should use a background thread.
+2015-05-06 13:22:43.999 UNCW[5772:47443] THREAD WARNING: ['InAppBrowser'] took '88.947021' ms. Plugin should use a background thread.
+2015-05-06 13:22:45.960 UNCW[5772:47443] THREAD WARNING: ['InAppBrowser'] took '90.350098' ms. Plugin should use a background thread.

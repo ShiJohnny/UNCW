@@ -1,0 +1,38 @@
+<ons-page>
+    <ons-toolbar>
+    <div class="left"><ons-back-button>Back</ons-back-button></div>
+    <div class="center">UNCW Calendar</div>
+    </ons-toolbar>
+
+
+    <div class="profile-card">
+
+        <ons-icon icon="rss" class="profile-logo"></ons-icon>
+        <div class="profile-name">UNCW Feed</div>
+        <div class="profile-id">@UNCWilmington</div>
+        <div class="profile-desc">various news and event feeds from UNCW</div>
+
+    </div>
+
+    <ons-list-header>UNCW Events and Blogs</ons-list-header>
+
+    <ons-list ng-controller="FeedPluginCategoriesController">
+        <ons-list-item modifier="chevron" class="item" ng-repeat="category in categories" ng-click="showDetail($index)">
+            <ons-row>
+
+                <ons-col width="60px"> 
+                <div class="item-thum"><ons-icon icon="{{category.icon}}"></ons-icon></div>
+                </ons-col>
+
+                <ons-col>
+                <header>
+                <span class="item-title">{{category.title}}</span>
+                </header>
+                <p class="item-desc">{{category.description}}</p>
+                </ons-col>
+
+            </ons-row>                          
+        </ons-list-item>
+    </ons-list>
+
+</ons-page>

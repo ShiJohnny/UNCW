@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Calendar",
+      "description": "UNCW Calendar of Events.",
+      "icon": "calendar",
+      "items": [
+        {
+          "id": 1,
+          "title": "Campus Activities",
+          "description": "calendar of events held on campus",
+          "url": "https://events.uncw.edu/MasterCalendar/RSSFeeds.aspx?data=hhAbVFpDFO7OxcTcYlM9LhZrm0f7aAAGNAS4zVOQE%2bTy91LLVaGSvKXfh32jhPQ6"
+        },
+        {
+          "id": 2,
+          "title": "UNCW ACE",
+          "description": "Association for Campus Entertainment",
+          "url": "https://uncwace.wordpress.com/feed/"
+        },
+        {
+          "id": 3,
+          "title": "UNCW Featured Events",
+          "description": "calendar of events held on campus",
+          "url": "http://uncw.edu/events/rss"
+        },
+        {
+          "id": 4,
+          "title": "Randall Library",
+          "description": "calendar of exihibits held at Randall Library",
+          "url": "http://library.uncw.edu/events_exhibits/events/feed"
+        },
+        {
+          "id": 5,
+          "title": "Kenan Auditorium",
+          "description": "events for Kenan Auditorium",
+          "url": "https://events.uncw.edu/MasterCalendar/RSSFeeds.aspx?data=E6dodmaNJ5NKdXCNLg2VPraSZq32PtVzjEXR6WkUqmM3ndJXzxbEBA%3d%3d"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sports",
+      "description": "Sports News Related to UNCW",
+      "icon": "soccer-ball-o",
+      "items": [
+        {
+          "id": 1,
+          "title": "SEAHAWK SPORTS",
+          "description": "this is the seahawk rss feed",
+          "url": "http://uncwsports.com/rss.aspx"
+        },
+        {
+          "id": 2,
+          "title": "The Dub Hub",
+          "description": "Star News Online UNCW Sports News.",
+          "url": "http://dubhub.blogs.starnewsonline.com/feed/"
+        },
+        {
+          "id": 3,
+          "title": "Seahawk Sports News",
+          "description": "sports news delivered by UNCW Seahawk Newspaper",
+          "url": "http://www.theseahawk.org/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c[]=sports,sports/*&f=rss"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UNCW Arts",
+      "description": "sampling of blog and art events",
+      "icon": "music",
+      "items": [
+       {
+          "id": 1,
+          "title": "Cucalorus",
+          "description": "a film festival in Wilmington, NC",
+          "url": "http://www.cucalorus.org/blog/index.php/feed/"
+        },
+        {
+          "id": 2,
+          "title": "UNCW Flicker Film Society",
+          "description": "UNCW's Premiere Student Film Club",
+          "url": "https://uncwflickerfilmsociety.wordpress.com/feed/"
+        },
+        {
+          "id": 3,
+          "title": "UNCW College of Arts and Sciences",
+          "description": "tumblr page for the UNCW College of Arts and Sciences ",
+          "url": "http://uncwcas.tumblr.com/rss"
+        },
+        {
+          "id": 4,
+          "title": "UNCW Art Gallery",
+          "description": "tumblr page for the UNCW Art",
+          "url": "http://uncwartgallery.tumblr.com/rss"
+        },
+        {
+          "id": 5,
+          "title": "Music",
+          "description": "events held by UNCW's Music Department",
+          "url": "https://events.uncw.edu/MasterCalendar/RSSFeeds.aspx?data=qaUdY1wvEciJ2wvy%2fMP8svpgwOFlqLyKxndCgmkjl8TnG3WI%2fwEC1Q%3d%3d"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "UNCW Related Blogs",
+      "description": "other sources of information related to UNCW",
+      "icon": "rss",
+      "items": [
+        {
+          "id": 1,
+          "title": "UNCW Admissions",
+          "description": "UNCW Office of Admissions",
+          "url": "http://uncwadmissions.tumblr.com/rss"
+        },
+        {
+          "id": 2,
+          "title": "UNCW Alumni",
+          "description": "the alumni blog of UNCW",
+          "url": "http://uncwalumni.blogspot.com/feeds/posts/default?alt=rss"
+        },
+        {
+          "id": 3,
+          "title": "Her Campus",
+          "description": "Her Campus of University of Wilmington North Carolina",
+          "url": "http://www.hercampus.com/school/709036/feed"
+        },
+        {
+          "id": 4,
+          "title": "Teal Transfer",
+          "description": "Our first hand experience as transfer students at the Dub!",
+          "url": "http://transfertotealguides.tumblr.com/rss"
+        },
+        {
+          "id": 5,
+          "title": "UNCW Student Ambassadors",
+          "description": "tumblr page for UNCW Student Ambassadors",
+          "url": "http://uncwambassadors.tumblr.com/rss"
+        }
+      ]
+    }
+  ]
+}
