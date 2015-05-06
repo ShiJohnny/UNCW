@@ -30,7 +30,6 @@
 		30B4F30219D5E07200D9F7D8 /* Default-Landscape-736h.png in Resources */ = {isa = PBXBuildFile; fileRef = 30B4F2FF19D5E07200D9F7D8 /* Default-Landscape-736h.png */; };
 		30C1856619D5FC0A00212699 /* icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 30C1856519D5FC0A00212699 /* icon-60@3x.png */; };
 		30FC414916E50CA1004E6F35 /* icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 30FC414816E50CA1004E6F35 /* icon-72@2x.png */; };
-		50DFF7A92EA34E4D971E505F /* SocialSharing.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F63B99F30A8453FA4D7EB7F /* SocialSharing.m */; };
 		52B809D15C664C7B8180AE73 /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 216EA947B0A24B4EB6BFBD3B /* CDVDevice.m */; };
 		5B1594DD16A7569C00FEF299 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */; };
 		67C4DF084C2E47D9A5865BF6 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 269EA0B07CD54712B8335698 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -44,11 +43,8 @@
 		7E7966E51810823500FA85AD /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DB1810823500FA85AD /* icon-76@2x.png */; };
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
-		89CCE4CD48634B8D9A17E6C4 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59DC060CA8754E2592CFB522 /* Social.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		A45CDCC5071A474DBE5AAA5F /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEC9A452F57B4FFCA778B4F0 /* CoreLocation.framework */; };
-		A801454745024628A823DAAC /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 847E97FAFD8542E68A98E0E6 /* MessageUI.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		BD00F60B1FCD4D918CA71A86 /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 65CD2F1179EB45CE97D2C8B6 /* CDVNotification.m */; };
-		CF9404C124B4477B99B7D0AF /* APPEmailComposer.m in Sources */ = {isa = PBXBuildFile; fileRef = 514C5DD0DE044C9F92107EFB /* APPEmailComposer.m */; };
 		D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */; };
 /* End PBXBuildFile section */
 
@@ -99,10 +95,7 @@
 		30C1856519D5FC0A00212699 /* icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-60@3x.png"; sourceTree = "<group>"; };
 		30FC414816E50CA1004E6F35 /* icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72@2x.png"; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* UNCW-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UNCW-Prefix.pch"; sourceTree = "<group>"; };
-		495CDF3320F74931839E99CB /* SocialSharing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SocialSharing.h; path = "nl.x-services.plugins.socialsharing/SocialSharing.h"; sourceTree = "<group>"; };
-		4F63B99F30A8453FA4D7EB7F /* SocialSharing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SocialSharing.m; path = "nl.x-services.plugins.socialsharing/SocialSharing.m"; sourceTree = "<group>"; };
 		4F7C4E9B0FA54E2CACD0960A /* CDVInAppBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVInAppBrowser.m; path = org.apache.cordova.inappbrowser/CDVInAppBrowser.m; sourceTree = "<group>"; };
-		514C5DD0DE044C9F92107EFB /* APPEmailComposer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = APPEmailComposer.m; path = "de.appplant.cordova.plugin.email-composer/APPEmailComposer.m"; sourceTree = "<group>"; };
 		59DC060CA8754E2592CFB522 /* Social.framework */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		65CD2F1179EB45CE97D2C8B6 /* CDVNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVNotification.m; path = org.apache.cordova.dialogs/CDVNotification.m; sourceTree = "<group>"; };
@@ -123,7 +116,6 @@
 		D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x~iphone.png"; sourceTree = "<group>"; };
 		D822D85D9E284FB3AC58587F /* CDVLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVLocation.m; path = org.apache.cordova.geolocation/CDVLocation.m; sourceTree = "<group>"; };
 		D880DC143F0A4DDF8F604D2E /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = CDVNotification.bundle; sourceTree = "<group>"; };
-		DA4A51BBCB424859A41F0E91 /* APPEmailComposer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = APPEmailComposer.h; path = "de.appplant.cordova.plugin.email-composer/APPEmailComposer.h"; sourceTree = "<group>"; };
 		DEB85DF277B04177A6BD377E /* CDVNotification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVNotification.h; path = org.apache.cordova.dialogs/CDVNotification.h; sourceTree = "<group>"; };
 		EB87FDF21871DA7A0020F90C /* merges */ = {isa = PBXFileReference; lastKnownFileType = folder; name = merges; path = ../../merges; sourceTree = "<group>"; };
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
@@ -141,8 +133,6 @@
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
-				A801454745024628A823DAAC /* MessageUI.framework in Frameworks */,
-				89CCE4CD48634B8D9A17E6C4 /* Social.framework in Frameworks */,
 				67C4DF084C2E47D9A5865BF6 /* AudioToolbox.framework in Frameworks */,
 				A45CDCC5071A474DBE5AAA5F /* CoreLocation.framework in Frameworks */,
 			);
@@ -237,10 +227,6 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				514C5DD0DE044C9F92107EFB /* APPEmailComposer.m */,
-				DA4A51BBCB424859A41F0E91 /* APPEmailComposer.h */,
-				4F63B99F30A8453FA4D7EB7F /* SocialSharing.m */,
-				495CDF3320F74931839E99CB /* SocialSharing.h */,
 				216EA947B0A24B4EB6BFBD3B /* CDVDevice.m */,
 				0037090FFF3946FB95E81214 /* CDVDevice.h */,
 				65CD2F1179EB45CE97D2C8B6 /* CDVNotification.m */,
@@ -439,8 +425,6 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
-				CF9404C124B4477B99B7D0AF /* APPEmailComposer.m in Sources */,
-				50DFF7A92EA34E4D971E505F /* SocialSharing.m in Sources */,
 				52B809D15C664C7B8180AE73 /* CDVDevice.m in Sources */,
 				BD00F60B1FCD4D918CA71A86 /* CDVNotification.m in Sources */,
 				2B94CA69F0094E679F883FDD /* CDVLocation.m in Sources */,
